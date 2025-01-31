@@ -35,7 +35,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #ffc451;
+  background: #0053F1;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -44,7 +44,7 @@ h6 {
 
 .back-to-top i {
   font-size: 28px;
-  color: #a70a0a;
+  color: #ffffff;
   line-height: 0;
 }
 
@@ -1598,10 +1598,11 @@ section {
   background: none;
   font-size: 16px;
   padding: 0 20px;
-  background: #ffc451;
+  background: #0053F1;
   color: #07549C;
   transition: 0.3s;
   border-radius: 0 4px 4px 0;
+
 }
 
 
