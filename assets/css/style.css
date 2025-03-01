@@ -1202,8 +1202,6 @@ section {
   position: relative;
   overflow: hidden;
   display: flex;
-  width: 100px;
-  height: 100px;
 }
 
 .team .member .social {
